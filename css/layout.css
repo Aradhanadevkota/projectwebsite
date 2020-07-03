@@ -1,0 +1,88 @@
+.main-wrapper{
+    height: auto;
+    width: 100%;
+}
+
+.navbar-wrapper{
+    height: 50px;
+    width: 100%;
+    background-color: #ffffff;
+    color: black;
+}
+
+.logo-wrapper{
+    height: 50px;
+    width: auto;
+    float: left;
+}
+
+.navbar{
+    height: auto;
+    width: 30%;
+    float: right;
+}
+
+.personal-detail{
+    height: 300px;
+    width: 100%;
+    background-color: black;
+    color: white;
+}
+
+.intro-paragraph{
+    height: auto;
+    width: 60%;
+    float: left;
+    margin-left: 30px;
+}
+
+.intro{
+    height: auto;
+    width: 60%;
+    float: left;
+    padding: 100px 0px;
+    text-align: center;
+}
+
+.paragraph{
+    height: auto;
+    width: 40%;
+    float: right;
+    padding: 75px 0px;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+
+.personal-photo{
+    height: 300px;
+    width: 30%;
+    float: right;
+}
+
+.works-wrapper{
+    height: auto;
+    width: 95%;
+    margin: 0 auto;
+}
+
+.my-works{
+    height: 300px;
+    width: 31%;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    float: left;
+    background-color: #e9eaec;
+}
+
+
+
+
+
+.footer{
+    height: 30px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    margin-top: 50px;
+}
